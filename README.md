@@ -4,7 +4,7 @@
 
 # Repositórios e sites importantes
 
-* [Repositório oficial dotnet no github](https://github.com/dotnet/core/blob/main/Documentation/core-repos.md)
+* [Repositório oficial .NET no github](https://github.com/dotnet/core/blob/main/Documentation/core-repos.md)
 
 * [Documentação da plataforma .NET](https://docs.microsoft.com/pt-br/dotnet/)
 
