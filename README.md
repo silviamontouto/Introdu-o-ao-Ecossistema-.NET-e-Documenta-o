@@ -16,11 +16,11 @@
 
 
 
-* [Repositório oficial .NET no github](https://github.com/dotnet/core/blob/main/Documentation/core-repos.md)
+[1 - Repositório oficial .NET no github](https://github.com/dotnet/core/blob/main/Documentation/core-repos.md)
 
-* [Documentação da plataforma .NET](https://docs.microsoft.com/pt-br/dotnet/)
+[2 - Documentação da plataforma .NET](https://docs.microsoft.com/pt-br/dotnet/)
 
-* [Site oficial .NET Foundation](https://dotnetfoundation.org/)
+[3 - Site oficial .NET Foundation](https://dotnetfoundation.org/)
 
 
 
@@ -40,14 +40,21 @@ ________
 
 
 
-* [.NET is open source on GitHub | .NET (microsoft.com)](https://dotnet.microsoft.com/platform/open-source)
-* [Especificação das APIs que são comuns às implementações .NET](https://dotnet.microsoft.com/platform/dotnet-standard)
-* [Sobre .NET Core e .NET | Modular e com melhor desempenho](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
-* [Tudo o que você precisa saber sobre as licenças de projetos open source | by Diego Martins de Pinho | Training Center | Medium](https://medium.com/trainingcenter/tudo-o-que-voc%C3%AA-precisa-saber-sobre-as-licen%C3%A7as-de-projetos-open-source-aaccbe23e50d)
-* [.NET is open source on GitHub | .NET](https://dotnet.microsoft.com/platform/open-source)
-* [.NET Standard | Common APIs across all .NET implementations](https://dotnet.microsoft.com/platform/dotnet-standard)
-* [Performance Improvements in .NET 5 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
-* [Introduction to ASP.NET Core Blazor | Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-5.0)
+[1 - .NET is open source on GitHub | .NET (microsoft.com)](https://dotnet.microsoft.com/platform/open-source)
+
+[2 - Especificação das APIs que são comuns às implementações .NET](https://dotnet.microsoft.com/platform/dotnet-standard)
+
+[3 - Sobre .NET Core e .NET | Modular e com melhor desempenho](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
+
+[4 - Tudo o que você precisa saber sobre as licenças de projetos open source | by Diego Martins de Pinho | Training Center | Medium](https://medium.com/trainingcenter/tudo-o-que-voc%C3%AA-precisa-saber-sobre-as-licen%C3%A7as-de-projetos-open-source-aaccbe23e50d)
+
+[5 - .NET is open source on GitHub | .NET](https://dotnet.microsoft.com/platform/open-source)
+
+[6 - .NET Standard | Common APIs across all .NET implementations](https://dotnet.microsoft.com/platform/dotnet-standard)
+
+[7 - Performance Improvements in .NET 5 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/)
+
+[8 - Introduction to ASP.NET Core Blazor | Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-5.0)
 
 
 
@@ -145,11 +152,11 @@ ________
 
 **Para saber mais**
 
-[Microsserviços do .NET. Arquitetura de aplicativos .NET em contêineres | Microsoft Docs](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/)
+[1 - Microsserviços do .NET. Arquitetura de aplicativos .NET em contêineres | Microsoft Docs](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/)
 
-[Azure para desenvolvedores .NET | Microsoft Docs](https://docs.microsoft.com/pt-br/dotnet/azure/)
+[2 - Azure para desenvolvedores .NET | Microsoft Docs](https://docs.microsoft.com/pt-br/dotnet/azure/)
 
-[Documentação do .NET | Microsoft Docs](https://docs.microsoft.com/pt-br/dotnet/)
+[3 - Documentação do .NET | Microsoft Docs](https://docs.microsoft.com/pt-br/dotnet/)
 
 
 
